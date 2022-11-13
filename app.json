@@ -1,16 +1,16 @@
 {
-  "pages":[
+  "pages": [
     "pages/list/list",
+    "pages/detail/detail",
+    "pages/login/login",
     "pages/index/index",
     "pages/logs/logs"
-    
   ],
-  "window":{
+  "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "福大猫猫精英班",
-    "navigationBarTextStyle":"black",
-    "enablePullDownRefresh": true
+    "navigationBarTextStyle": "black"
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json",
