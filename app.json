@@ -2,9 +2,7 @@
   "pages": [
     "pages/list/list",
     "pages/detail/detail",
-    "pages/login/login",
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/photo/photo"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -12,7 +10,7 @@
     "navigationBarTitleText": "福大猫猫精英班",
     "navigationBarTextStyle": "black"
   },
+   
   "style": "v2",
-  "sitemapLocation": "sitemap.json",
-  "navigationBarBackgroundColor": "#e6bd62"
+  "sitemapLocation": "sitemap.json"
 }
