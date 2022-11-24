@@ -2,6 +2,7 @@
     "pages": [
       
        "pages/index/index",
+       "pages/test/test",
        "pages/gr/gr",
        "pages/jie1/jie1",
        "pages/jie1-1/jie1-1",
